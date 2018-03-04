@@ -1,3 +1,6 @@
 ﻿code học
 luyen code nhu luyen kiem.
+<<<<<<< HEAD
 ngu ngo supper 012344
+=======
+>>>>>>> parent of e9a19ec... test 005
